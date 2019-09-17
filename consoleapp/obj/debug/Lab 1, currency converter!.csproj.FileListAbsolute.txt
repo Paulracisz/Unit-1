@@ -1,0 +1,11 @@
+C:\Users\Paul\source\repos\Lab 1, currency converter!\Lab 1, currency converter!\bin\Debug\netcoreapp2.1\Lab 1, currency converter!.deps.json
+C:\Users\Paul\source\repos\Lab 1, currency converter!\Lab 1, currency converter!\bin\Debug\netcoreapp2.1\Lab 1, currency converter!.runtimeconfig.json
+C:\Users\Paul\source\repos\Lab 1, currency converter!\Lab 1, currency converter!\bin\Debug\netcoreapp2.1\Lab 1, currency converter!.runtimeconfig.dev.json
+C:\Users\Paul\source\repos\Lab 1, currency converter!\Lab 1, currency converter!\bin\Debug\netcoreapp2.1\Lab 1, currency converter!.dll
+C:\Users\Paul\source\repos\Lab 1, currency converter!\Lab 1, currency converter!\bin\Debug\netcoreapp2.1\Lab 1, currency converter!.pdb
+C:\Users\Paul\source\repos\Lab 1, currency converter!\Lab 1, currency converter!\obj\Debug\netcoreapp2.1\Lab 1, currency converter!.csprojAssemblyReference.cache
+C:\Users\Paul\source\repos\Lab 1, currency converter!\Lab 1, currency converter!\obj\Debug\netcoreapp2.1\Lab 1, currency converter!.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\Lab 1, currency converter!\Lab 1, currency converter!\obj\Debug\netcoreapp2.1\Lab 1, currency converter!.AssemblyInfoInputs.cache
+C:\Users\Paul\source\repos\Lab 1, currency converter!\Lab 1, currency converter!\obj\Debug\netcoreapp2.1\Lab 1, currency converter!.AssemblyInfo.cs
+C:\Users\Paul\source\repos\Lab 1, currency converter!\Lab 1, currency converter!\obj\Debug\netcoreapp2.1\Lab 1, currency converter!.dll
+C:\Users\Paul\source\repos\Lab 1, currency converter!\Lab 1, currency converter!\obj\Debug\netcoreapp2.1\Lab 1, currency converter!.pdb
